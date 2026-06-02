@@ -49,3 +49,27 @@ Buka API docs: `http://localhost:8000/docs`
 
 **Pekerja kirim laporan masalah:**
 
+
+oh
+
+
+## Contoh Interaksi
+
+Pekerja: Pak, ikan di Kolam A nafas di permukaan terus
+
+AquaOps AI:
+DARURAT - Kemungkinan Hipoksia!
+1. Nyalakan aerator SEKARANG
+2. Ganti 30% air dengan air segar
+3. Hitung ikan yang mati
+4. Cek suhu air (idealnya 25-30C)
+Pantau 30 menit. Laporkan hasilnya!
+
+## Roadmap
+- v0.1 DONE - WhatsApp, AI Agent, RAG, Auto-scheduler
+- v0.2 Dashboard web untuk pemilik
+- v0.3 Analisis kesehatan ikan dari foto
+- v0.4 Integrasi sensor IoT
+
+## Lisensi
+MIT License - dibuat untuk peternak ikan Garut, Jawa Barat
